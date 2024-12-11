@@ -1,0 +1,56 @@
+{
+    "KartAgent": {
+        "checkpoints": [
+            {
+                "steps": 499986,
+                "file_path": "results\\Racing0\\KartAgent\\KartAgent-499986.onnx",
+                "reward": 0.8149412132444835,
+                "creation_time": 1733855294.422,
+                "auxillary_file_paths": [
+                    "results\\Racing0\\KartAgent\\KartAgent-499986.pt"
+                ]
+            },
+            {
+                "steps": 999984,
+                "file_path": "results\\Racing0\\KartAgent\\KartAgent-999984.onnx",
+                "reward": 0.8153579552642635,
+                "creation_time": 1733856640.235739,
+                "auxillary_file_paths": [
+                    "results\\Racing0\\KartAgent\\KartAgent-999984.pt"
+                ]
+            },
+            {
+                "steps": 1012462,
+                "file_path": "results\\Racing0\\KartAgent\\KartAgent-1012462.onnx",
+                "reward": 0.8155360648760924,
+                "creation_time": 1733856673.6378152,
+                "auxillary_file_paths": [
+                    "results\\Racing0\\KartAgent\\KartAgent-1012462.pt"
+                ]
+            },
+            {
+                "steps": 1146939,
+                "file_path": "results\\Racing0\\KartAgent\\KartAgent-1146939.onnx",
+                "reward": -1.35788893699646,
+                "creation_time": 1733860009.5765772,
+                "auxillary_file_paths": [
+                    "results\\Racing0\\KartAgent\\KartAgent-1146939.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1146939,
+            "file_path": "results\\Racing0\\KartAgent.onnx",
+            "reward": -1.35788893699646,
+            "creation_time": 1733860009.5765772,
+            "auxillary_file_paths": [
+                "results\\Racing0\\KartAgent\\KartAgent-1146939.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

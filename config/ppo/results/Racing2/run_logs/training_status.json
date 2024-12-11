@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    },
+    "KartAgent": {
+        "checkpoints": [
+            {
+                "steps": 499580,
+                "file_path": "results\\Racing2\\KartAgent\\KartAgent-499580.onnx",
+                "reward": -1.736952441079276,
+                "creation_time": 1733896985.71227,
+                "auxillary_file_paths": [
+                    "results\\Racing2\\KartAgent\\KartAgent-499580.pt"
+                ]
+            },
+            {
+                "steps": 728591,
+                "file_path": "results\\Racing2\\KartAgent\\KartAgent-728591.onnx",
+                "reward": -1.850426024860806,
+                "creation_time": 1733897517.1647546,
+                "auxillary_file_paths": [
+                    "results\\Racing2\\KartAgent\\KartAgent-728591.pt"
+                ]
+            },
+            {
+                "steps": 999075,
+                "file_path": "results\\Racing2\\KartAgent\\KartAgent-999075.onnx",
+                "reward": -1.844770886003971,
+                "creation_time": 1733898321.0633147,
+                "auxillary_file_paths": [
+                    "results\\Racing2\\KartAgent\\KartAgent-999075.pt"
+                ]
+            },
+            {
+                "steps": 1499774,
+                "file_path": "results\\Racing2\\KartAgent\\KartAgent-1499774.onnx",
+                "reward": 0.6244466638565064,
+                "creation_time": 1733899336.7274542,
+                "auxillary_file_paths": [
+                    "results\\Racing2\\KartAgent\\KartAgent-1499774.pt"
+                ]
+            },
+            {
+                "steps": 1806825,
+                "file_path": "results\\Racing2\\KartAgent\\KartAgent-1806825.onnx",
+                "reward": null,
+                "creation_time": 1733899873.4581938,
+                "auxillary_file_paths": [
+                    "results\\Racing2\\KartAgent\\KartAgent-1806825.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1806825,
+            "file_path": "results\\Racing2\\KartAgent.onnx",
+            "reward": null,
+            "creation_time": 1733899873.4581938,
+            "auxillary_file_paths": [
+                "results\\Racing2\\KartAgent\\KartAgent-1806825.pt"
+            ]
+        }
+    }
+}
